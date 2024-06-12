@@ -13,9 +13,6 @@ _website design project_
 
 This project is for educational porpuses only. Pull request are welcome, but priority for project authors! Thank you for your cooperation!
 
-Site published at: https://front-end-by-rimantas.github.io/50-grupe-eduhouse/
-
-
 Design: [Eduhause](https://dribbble.com/shots/2537184-Day-008-404-Page-Daily-UI)
 
 ## 🎯 Project features/goals
