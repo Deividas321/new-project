@@ -16,7 +16,7 @@ This project is for educational porpuses only. Pull request are welcome, but pri
 Site published at: https://front-end-by-rimantas.github.io/50-grupe-eduhouse/
 
 
-Design: [Labirintas](https://dribbble.com/shots/2537184-Day-008-404-Page-Daily-UI)
+Design: [Eduhause](https://dribbble.com/shots/2537184-Day-008-404-Page-Daily-UI)
 
 ## 🎯 Project features/goals
 
@@ -50,7 +50,6 @@ Would like to run this project locally? Open terminal and follow these steps:
 
 1. Clone the repo
     ```sh
-    git clone https://github.com/front-end-by-rimantas/50-grupe-eduhouse.git
     ```
 2. Install NPM packages
     ```sh
@@ -71,7 +70,7 @@ There is no tests for this project.
 
 ## 🎅 Authors
 
-Rimantas: [Github](https://github.com/Deividas456)
+[Github](https://github.com/Deividas456)
 
 ## ⚠️ License
 
