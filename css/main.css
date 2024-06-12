@@ -2,15 +2,19 @@ body {
     display: inline-block;
     width: 100%;
     margin: 0;
+
     }
-    aside {background-color: pink;
+    aside {
+        background-color: pink;
          width: 200px;
          float: left;
          height: 500px;
          border: 10px solid red; 
     }
-    main {background-color: aqua;
-        width: calc(100% - 200px);
+    main {
+        background-color: aqua;
+        width: 200px;
         float: left;
-        
+        height: 500px;
+        box-shadow: 100px red;
     }
