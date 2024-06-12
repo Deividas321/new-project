@@ -3,7 +3,7 @@
 ![Eco Status](https://img.shields.io/badge/ECO-Friendly-green.svg)
 [![Discord](https://discord.com/api/guilds/571393319201144843/widget.png)](https://discord.gg/dRwW4rw)
 
-# Labirintas
+# Eduhause
 
 _website design project_
 
@@ -14,8 +14,6 @@ _website design project_
 This project is for educational porpuses only. Pull request are welcome, but priority for project authors! Thank you for your cooperation!
 
 
-
-Design: [Labirintas](https://dribbble.com/shots/2537184-Day-008-404-Page-Daily-UI)
 
 ## 🎯 Project features/goals
 
