@@ -12,5 +12,5 @@ body {
     main {background-color: aqua;
         width: calc(100% - 200px);
         float: left;
-        height: 500px;
+        
     }
