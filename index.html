@@ -11,11 +11,13 @@
     <link rel="stylesheet" href="./css/main.css">
     <!-- components -->
     <link rel="stylesheet" href="./css/aside.css">
+    <link rel="stylesheet" href="./css/courses.css">
     <link rel="stylesheet" href="./css/header.css">
     <!-- custom style for this page only -->
 </head>
 
 <body>
+   
     <aside>
         <img class="logo" src="./img/logo.png" alt="Logo">
         <nav class="main-nav">
@@ -44,7 +46,7 @@
     <main>
         <header class="main-header">
             <form class="form">
-                <input type="text" placeholder="Search here..." value="pomidoras">
+                <input type="text" placeholder="Search here..." value="">
                 <i class="fa fa-search"></i>
             </form>
             <div class="user-block">
@@ -54,29 +56,84 @@
                 <img class="avatar" src="./img/face.jpg" alt="User avatar">
             </div>
         </header>
+
         <section class="block course-progress">
             <h2 class="title">Course in progress</h2>
-            <a class="link" href="#">View All</a>
-            <div class="content">CONTENT</div>
-
-        </section>
-        <section class="block subscription">
+            <a class="link" href="#">View all</a>
+            <div class="content course-list">
+                <article class="course violet">
+                    <div class="details">
+                        <div class="date">Dev, 15, 2020</div>
+                        <img class="icon" src="./img/course-1.png" alt="Course app design icon">
+                    </div>
+                    <h3 class="title">App design</h3>
+                    <p class="learn">Lorem ipsum dolor sit amet.</p>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quis, distinctio! lorem</p>
+                    <div class="progress-bar">
+                        <div class="progress">
+                            <div class="bar bar-50"></div>
+                        </div>
+                        <div class="values">
+                            <div>Progress</div>
+                            <div>50%</div>
+                        </div>
+                    </div>
+                </article>
             
-            <div class="content">CONTENT</div>
+                <article class="course orange">
+                    <div class="details">
+                        <div class="date">Dev, 15, 2020</div>
+                        <img class="icon" src="./img/Web Design.svg" alt="Course app design icon">
+                    </div>
+                    <h3 class="title">App design</h3>
+                    <p class="learn">Lorem ipsum dolor sit amet.</p>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quis, distinctio!</p>
+                    <div class="progress-bar">
+                        <div class="progress">
+                            <div class="bar bar-20"></div>
+                        </div>
+                        <div class="values">
+                            <div>Progress</div>
+                            <div>20%</div>
+                        </div>
+                    </div>
+                </article>
 
-        </section >
-        <section class=" block block-bg popular-categories" >
-            <h2 class="block title">Popular categories</h2>
-            <a class="link" href="#"></a>
+                <article class="course teal">
+                    <div class="details">
+                        <div class="date">Dev, 15, 2020</div>
+                        <img class="icon" src="./img/Dashboard.svg" alt="Course app design icon">
+                    </div>
+                    <h3 class="title">App design</h3>
+                    <p class="learn">Lorem ipsum dolor sit amet.</p>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quis, distinctio!</p>
+                    <div class="progress-bar">
+                        <div class="progress">
+                            <div class="bar bar-80"></div>
+                        </div>
+                        <div class="values">
+                            <div>Progress</div>
+                            <div>80%</div>
+                        </div>
+                    </div>
+                </article>
+            </div>
+        </section>
+
+        <section class="block subscription">
             <div class="content">CONTENT</div>
         </section>
 
-        <section class="block block-bg top-mentors" style="background-color: #E6F5FA;">
-            <h2 class="block title">Top mentors</h2>
-            <a class="link" href="#">View All</a>
+        <section class="block block-bg popular-categories">
+            <h2 class="title">Popular categories</h2>
             <div class="content">CONTENT</div>
         </section>
 
+        <section style="background-color: #E6F5FA;" class="block block-bg top-mentors">
+            <h2 class="title">Top mentors</h2>
+            <a class="link" href="#">View all</a>
+            <div class="content">CONTENT</div>
+        </section>
     </main>
 </body>
 
